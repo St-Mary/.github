@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/St-Mary/.github/blob/main/icon.png?raw=true" alt="Logo" width="120" height="120">
+    <img src="https://github.com/st-mary/.github/blob/main/icon.png?raw=true" alt="Logo" width="120" height="120">
   
 <h3 align="center">Saint Mary's Gate</h3>
   <p align="center">
@@ -11,9 +11,9 @@
   </p>
 </div>
 
-> St Mary Gate, a captivating text-based MMORPG where every choice shapes your destiny.
+> Saint Mary's Gate, a captivating text-based MMORPG where every choice shapes your destiny.
 
- [![license](https://img.shields.io/github/license/st-mary/.github.svg)](https://github.com/nhn/tui.editor/blob/master/LICENSE) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg) ![code with hearth by St Mary's team](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-St._Mary_Team-ff1414.svg)
+ [![license](https://img.shields.io/github/license/st-mary/.github.svg)](https://github.com/St-Mary/.github/blob/main/LICENSE) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg) ![code with hearth by St Mary's team](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-St._Mary_Team-ff1414.svg)
 
 
 ## 🚩 Table of Contents
@@ -54,10 +54,10 @@ For more information on PR's steps, please see links in the Contributing section
 
 ## 💬 Contributing
 
-* [Code of Conduct](https://github.com/nhn/tui.editor/blob/master/CODE_OF_CONDUCT.md)
-* [Contributing Guideline](https://github.com/nhn/tui.editor/blob/master/CONTRIBUTING.md)
+* [Code of Conduct](https://github.com/St-Mary/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing Guideline](https://github.com/St-Mary/.github/blob/main/CONTRIBUTING.md)
 <!-- * [Issue Guidelines](https://github.com/nhn/tui.editor/tree/master/.github/ISSUE_TEMPLATE) -->
 
 ## 📜 License
 
-This software is licensed under the [Apache License 2.0](https://github.com/st-mary/.github/blob/main/LICENSE) © [Saint Mary's Gate](https://github.com/st-mary).
+This software is licensed under the [Apache License 2.0](https://github.com/St-Mary/.github/blob/main/LICENSE) © [Saint Mary's Gate](https://github.com/St-Mary).
