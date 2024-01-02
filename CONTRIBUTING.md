@@ -28,11 +28,11 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 > If you want to ask a question, we assume that you have read the available [Documentation](https://docs.stmarygate.com).
 
-Before you ask a question, it is best to search for existing [Issues](https://github.com/orgs/St-Mary/repositories/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
+Before you ask a question, it is best to search for existing Issues that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 
 If you then still feel the need to ask a question and need clarification, we recommend the following:
 
-- Open an [Issue](https://github.com/orgs/St-Mary/repositories/issues/new).
+- Open an Issue.
 - Provide as much context as you can about what you're running into.
 - Provide project and platform versions (nodejs, npm, etc), depending on what seems relevant.
 
@@ -61,7 +61,7 @@ Thank you for considering contributing to St Mary Gate! Your involvement helps u
 
 We use GitHub issues to track bugs and errors. If you run into an issue with the project:
 
-- Open an [Issue](https://github.com/orgs/St-Mary/repositories/issues/new). (Since we can't be sure at this point whether it is a bug or not, we ask you not to talk about a bug yet and not to label the issue.)
+- Open an Issue. (Since we can't be sure at this point whether it is a bug or not, we ask you not to talk about a bug yet and not to label the issue.)
 - Explain the behaviour you would expect and the actual behaviour.
 - Please provide as much context as possible and describe the *reproduction steps* that someone else can follow to recreate the issue on their own. This usually includes your code. For good bug reports you should isolate the problem and create a reduced test case.
 - Provide the information you collected in the previous section.
@@ -91,17 +91,16 @@ This section guides you through submitting an enhancement suggestion for St Mary
 
 - Make sure that you are using the latest version.
 - Read the [documentation](https://docs.stmarygate.com) carefully and find out if the functionality is already covered, maybe by an individual configuration.
-- Perform a [search](https://github.com/orgs/St-Mary/repositories/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+- Perform a search to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 - Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
 
 #### How Do I Submit a Good Enhancement Suggestion?
 
-Enhancement suggestions are tracked as [GitHub issues](https://github.com/orgs/St-Mary/repositories/issues).
+Enhancement suggestions are tracked as GitHub issues.
 
 - Use a **clear and descriptive title** for the issue to identify the suggestion.
 - Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
 - **Describe the current behaviour** and **explain which behaviour you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
-- You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. <!-- this should only be included if the project has a GUI -->
 - **Explain why this enhancement would be useful** to most St Mary's Gate users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
 
 ### Your First Code Contribution
@@ -155,7 +154,8 @@ Contributions to documentation are highly valuable. Here's how you can enhance S
 
 Consistent and clear commit messages contribute to a clean version history. Follow these guidelines when writing commit messages:
 
-- Start with a succinct one-line summary (50 characters or less).
+- Start with a short prefix to describe your commit (e.g. `docs:` or `fix:`)
+- Continue with a succinct one-line summary (50 characters or less).
 - Use the body of the message to provide more details where necessary.
 - Reference relevant issues or pull requests.
 
@@ -163,6 +163,5 @@ Consistent and clear commit messages contribute to a clean version history. Foll
 
 If you're passionate about contributing regularly and want to become a part of the St Mary Gate project team, demonstrate your dedication through consistent and quality contributions. Engage with the community, showcase your skills, and express your interest in taking on a more active role. The project team will be happy to welcome you aboard!
 
-<!-- omit in toc -->
 ## Attribution
 This guide is based on the **contributing-gen**. [Make your own](https://github.com/bttger/contributing-gen)!
