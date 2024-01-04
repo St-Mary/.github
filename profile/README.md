@@ -31,6 +31,7 @@
 | [`@St-Mary/Coral`](https://github.com/St-Mary/Coral) | Common library used across the St Mary Gate project, which provides essential functionalities and utilities that are shared between the game client & server. |
 | [`@St-Mary/Luna`](https://github.com/St-Mary/Luna) | Game server responsible for managing game logic, processing user inputs, and maintaining the overall state of the game world. |
 | [`@St-Mary/Cassandra`](https://github.com/St-Mary/Cassandra) | Game client responsible for handling user interactions and rendering the game interface. |
+| [`@St-Mary/Docs`](https://github.com/St-Mary/Docs) | Documentation for the Saint Mary's Gate project |
 
 ## 🔧 Pull Request Steps
 
