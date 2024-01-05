@@ -6,8 +6,10 @@
     The Saint Mary's Gate game.
     <br />
     <a href="https://github.com/St-Mary/Coral/issues">Report Bug</a>
-    ·
+    .
     <a href="https://github.com/St-Mary/Coral/issues">Request Feature</a>
+    .
+    <a href="https://docs.stmarygate.com">Explore the docs »</a>
   </p>
 </div>
 
