@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/st-mary/.github/blob/main/icon.png?raw=true" alt="Logo" height="250">
+    <img src="https://github.com/st-mary/.github/blob/main/icon.png?raw=true" alt="Logo" height="150">
   
 <h3 align="center">Saint Mary's Gate</h3>
   <p align="center">
