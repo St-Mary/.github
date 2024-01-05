@@ -1,14 +1,10 @@
 <div align="center">
-    <img src="https://github.com/st-mary/.github/blob/main/icon.png?raw=true" alt="Logo" width="120" height="120">
+    <img src="https://github.com/st-mary/.github/blob/main/icon.png?raw=true" alt="Logo" height="250">
   
 <h3 align="center">Saint Mary's Gate</h3>
   <p align="center">
     The Saint Mary's Gate game.
     <br />
-    <a href="https://github.com/St-Mary/Coral/issues">Report Bug</a>
-    .
-    <a href="https://github.com/St-Mary/Coral/issues">Request Feature</a>
-    .
     <a href="https://docs.stmarygate.com">Explore the docs »</a>
   </p>
 </div>
