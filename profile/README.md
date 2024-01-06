@@ -5,7 +5,9 @@
   <p align="center">
     The Saint Mary's Gate game.
     <br />
-    <a href="https://docs.stmarygate.com">Explore the docs »</a>
+    <a href="https://docs.stmarygate.com"><strong>Explore the docs »</strong></a>
+    .
+    <a href="https://status.stmarygate.com"><strong>Status</strong></a>
   </p>
 </div>
 
